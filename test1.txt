@@ -1,1 +1,2 @@
 creates a test1.txt file in github
+print the charaters between K to S
